@@ -1,6 +1,6 @@
 ## Sobre o Projeto
 
-Esse Projeto foi idealizado com o intuito de ser facilitar a verificação de pedidos de compras. <br>
+Esse Projeto foi idealizado com o intuito de facilitar a verificação de pedidos de compras. <br>
 O programa Funciona em duas etapas, na primeira um script em python faz uma mineração de dados no site do fornecedor e retorna a lista dos pedidos, em seguida há um Script em VBA
 que compara os dados coletados com uma planilha de estoque, para evitar que haja compras desnecessárias.
 
