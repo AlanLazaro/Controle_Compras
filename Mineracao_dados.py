@@ -26,7 +26,7 @@ def loginSenha(driver):
 paginaAberta = abrindoPagina()
 paginaAberta.get("-")
 loginSenha(paginaAberta)
-paginaAberta.get("-ConsultaPedidoCredito.jsp?actualBar=1&pageIndex=0&")
+paginaAberta.get("")
 
 pedidos = []
 boxList = paginaAberta.find_element_by_class_name('box_list')
